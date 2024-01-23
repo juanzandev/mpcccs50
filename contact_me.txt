@@ -1,0 +1,17 @@
+Feel free to send me an email at jzanguitu5032@students.mpcc.edu. If you need a prompt response, I encourage you to text me on Discord (please, do not call unless you have prior permission). My Discord ID is Juanzan_ . If you anticipate needing my assistance, please add me on Discord as soon as possible and send me an email with your Discord ID so that I can recognize you.
+
+Before requesting help, please consider the following:
+
+1. Include the name of the problem set for which you are seeking assistance.
+2. Send me the code you have written so far. For emails, simply copy and paste the code. If you're using Discord, format your code within triple backticks (```) for clarity. I.e ``` your code ```
+3. If you're sending a screenshot, ensure that the line count is visible.
+4. Include a screenshot of any error messages from the terminal.
+5. Provide a detailed explanation of what you need help with.
+
+After assisting you, I might ask you to send me a confirmation email. This email should include your full name, the class name, and the date of assistance. It is necessary for me to have documentation of the tutoring session, which is required for submitting my hours each week.
+
+Please remember that tutoring hours at MPCC are free of charge. As most of you are online students and unable to sign a physical sheet, this process ensures that both of us benefit from the tutoring sessions.
+
+Important:
+
+As a Teacher's Assistant, my role is to facilitate your learning journey, not to provide complete solutions. I am here to guide you in your coding endeavors, ensuring academic integrity is maintained.
