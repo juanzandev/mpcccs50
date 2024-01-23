@@ -1,5 +1,4 @@
 # deep.py instructions
-#explain the code below
 # 1. ask the user a question
 # 2. store the answer in a variable
 # 3. check if the answer is correct
