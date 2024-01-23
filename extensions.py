@@ -22,7 +22,8 @@
 # 8. remember to check the reference for input function: https://docs.python.org/3/library/functions.html#input
 # 9. remember to check the reference for print function: https://docs.python.org/3/library/functions.html#print
 # HINTS:
-# 1. you won't need to create multiple fuctions for this program
+# 1. you won't need to create multiple functions for this program
 # 2. you won't need to use any modules for this program
 # 3. you won't need to use any loops for this program
 # 4. you won't need to use any conditional expressions for this program such as ==, !=, <, >, <=, >=.
+# 5. you may find a function in the refereneces that EXACTLY what you need.
