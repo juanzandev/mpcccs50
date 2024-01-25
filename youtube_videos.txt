@@ -20,7 +20,10 @@ https://www.youtube.com/watch?v=ZDa-Z5JzLYM&pp=ygUacHl0aG9uIGNsYXNzZXMgYW5kIG9ia
 Loops:
 https://www.youtube.com/watch?v=KWgYha0clzw&pp=ygUMcHl0aG9uIGxvb3Bz
 
-random YouTube shorts:
+Random YouTube shorts:
 Conditionals:
 https://www.youtube.com/shorts/mXSo8prV6H0
+Code optimizations:
+https://www.youtube.com/shorts/uWEIaF0PNGg
+
 I recommend the Bro Code channel for coding tutorials: https://www.youtube.com/@BroCodez
