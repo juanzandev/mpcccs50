@@ -8,7 +8,7 @@ Before requesting help, please consider the following:
 4. Include a screenshot of any error messages from the terminal.
 5. Provide a detailed explanation of what you need help with.
 
-After assisting you, I might ask you to send me a confirmation email. This email should include your full name, the class name, and the date of assistance. It is necessary for me to have documentation of the tutoring session, which is required for submitting my hours each week.
+After assisting you, I might ask you to send me a confirmation email. This email should include your full name, the class name, the date of assistance and the time that I have helped you. It is necessary for me to have documentation of the tutoring session, which is required for submitting my hours each week.
 
 Please remember that tutoring hours at MPCC are free of charge. As most of you are online students and unable to sign a physical sheet, this process ensures that both of us benefit from the tutoring sessions.
 
