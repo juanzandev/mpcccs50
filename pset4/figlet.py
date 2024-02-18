@@ -37,8 +37,8 @@ Arguments are strings; convert them as needed (e.g., to int or float for numeric
 Always validate the number and type of arguments to avoid runtime errors.
 --------------------------------------------------------------------------------------------------
 Use the hints in the problem to learn how to use piglet
-
---------------------STEP BY STEP GUIDE----------------------------
+'''
+#--------------------STEP BY STEP GUIDE----------------------------
 
 # Import the PyFiglet module for creating ASCII art from text
 # Import the sys module to access command-line arguments
